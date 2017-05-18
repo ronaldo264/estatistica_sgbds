@@ -6,7 +6,7 @@ require_once('conexao.php');
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Teste SGBD MySQL</title>
     </head>
     <body>
         <?php
