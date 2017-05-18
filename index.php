@@ -92,10 +92,9 @@
                 echo "<p>*****************************************************************************</p>";
                 $sql_delete = "DELETE FROM insercao";
                 pg_query($con,$sql_delete);
-                //$sql_del = "DELETE FROM tabela";
-                //pg_query($con,$sql_del);
-                $sql_vac = "VACUUM (FULL) tabela";
-                pg_query($con,$sql_vac);
+                $sql_del = "DELETE FROM tabela";
+                pg_query($con,$sql_del);
+                
                 ?>
                 
             </div>
