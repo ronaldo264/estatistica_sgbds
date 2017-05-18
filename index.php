@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>Teste SGBD Polstgre </title>
+        <title>Teste SGBD Polstgre</title>
     </head>
     <body>
         <div id="cont">
